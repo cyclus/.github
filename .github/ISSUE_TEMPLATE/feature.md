@@ -3,7 +3,6 @@ name: Feature request
 about: A request, idea, or new functionality
 title: '[Feature] '
 type: 'Feature'
-assignees: ''
 ---
 
 # Is your feature request related to a problem or mismatch? Please describe.

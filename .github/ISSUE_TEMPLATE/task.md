@@ -3,7 +3,6 @@ name: Task
 about: A specific piece of work
 title: '[Task] '
 type: 'Task'
-assignees: ''
 ---
 
 # What is this task about?
