@@ -27,6 +27,6 @@
 - [ ] Document if needed.
 - [ ] Follow style guidelines.
 - [ ] Update the changelog.
-- [ ] All review comments have been addressed.
+- [ ] Address all review comments.
 
 Reviewers, please refer to the Cyclus [Guide for Reviewers](https://fuelcycle.org/kernel/pr_review.html).
