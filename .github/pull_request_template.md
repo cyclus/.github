@@ -4,6 +4,10 @@
 <!--- In one or more sentences, describe the PR you are submitting. -->
 
 
+## Design Notes
+<!--- Describe any design decisions or trade-offs you made. -->
+
+
 # Related CEPs and Issues
 <!--- Reference any related CEPs or issues and describe how this PR contributes to or addresses the problem. -->
 
@@ -11,9 +15,6 @@
 # Associated Developers
 <!--- Please mention any developers who should be alerted of this PR. -->
 
-
-# Design Notes
-<!--- Describe any design decisions or trade-offs you made. -->
 
 
 # Testing and Validation
