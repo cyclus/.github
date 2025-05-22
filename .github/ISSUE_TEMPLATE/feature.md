@@ -5,7 +5,7 @@ title: '[Feature] '
 type: 'Feature'
 ---
 
-# Is your feature request related to a problem or mismatch? Please describe.
+# What is the motivation for your feature request? Please describe what you want to use it for.
 <!-- Describe the problem here. -->
 
 
