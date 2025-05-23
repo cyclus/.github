@@ -7,7 +7,7 @@ fuel cycle simulator. Cyclus is designed to enable a broad
 spectrum of fuel cycle simulation, while providing a low 
 barrier to entry for new users and agent developers. 
 
-![Cyclus logo](logo2.png "Cyclus logo")
+![Cyclus logo](https://raw.githubusercontent.com/cyclus/cyclus.github.com/refs/heads/source/source/logos/logo2_bike.gif "Cyclus logo")
 
 The three most-used repositories
 are:
