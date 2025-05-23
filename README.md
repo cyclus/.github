@@ -1,8 +1,13 @@
 # Cyclus Organization
 
 This organization encompasses the repositories 
-of and relating to the `Cyclus <https://fuelcycle.org>`_ fuel cycle 
-simulator code. The three most-used repositories
+of and relating to the [Cyclus](https://fuelcycle.org) fuel 
+cycle simulator code. Cyclus is an agent-based nuclear 
+fuel cycle simulator. Cyclus is designed to enable a broad 
+spectrum of fuel cycle simulation, while providing a low 
+barrier to entry for new users and agent developers. 
+
+The three most-used repositories
 are:
 * Cyclus
 * Cycamore
