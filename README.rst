@@ -19,6 +19,14 @@ relevant to all repositories:
   Enhancement Proposals (CEPs) <https://fuelcycle.org/cep/cep0.html>`_
 * All PRs should address an open issue. If an issue for your
   PR does not exist, please make an issue first
+* When creating an issue or PR, it can be a:
+  * Bug: Something is broken in the code and it is not working 
+    as one would expect
+  * Feature: You are requesting or adding in a new capability 
+    that does not exist in the code currently
+  * Task: Something that is not a bug or a feature; may be 
+    more administrative in nature, such as updating 
+    documentation.
 * The three repositories listed above have a discussions tab, 
   which is the ideal place to ask questions about installation, 
   use, suggest ideas, etc. 
