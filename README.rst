@@ -1,7 +1,7 @@
 # Cyclus Organization
 
 This organization encompasses the repositories 
-of and relating to the Cyclus fuel cycle 
+of and relating to the `Cyclus <https://fuelcycle.org>`_ fuel cycle 
 simulator code. The three most-used repositories
 are:
 * Cyclus
