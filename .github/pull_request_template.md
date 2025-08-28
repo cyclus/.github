@@ -8,8 +8,14 @@
 <!--- Describe any design decisions or trade-offs you made. -->
 
 
+Is this change expected to break any of the following?
+- [ ] API for Cyclus modules
+- [ ] Input files
+- [ ] Output tables for post processing tools
+
 # Related CEPs and Issues
-<!--- Reference any related CEPs or issues and describe how this PR contributes to or addresses the problem. -->
+<!--- Reference the issue that this PR closes, any related CEPs, and describe how this PR contributes to or addresses the problem. -->
+Fixes #
 
 
 # Associated Developers
@@ -21,13 +27,12 @@
 <!--- Describe how this change was tested. -->
 
 
-# Checklist
-- [ ] Read the [Contributing to Cyclus](https://fuelcycle.org/kernel/contributing_to_cyclus.html) guide.
-- [ ] Compile and run locally.
-- [ ] Add or update tests.
-- [ ] Document if needed.
-- [ ] Follow style guidelines.
-- [ ] Update the changelog.
-- [ ] Address all review comments.
+- [ ] Read the [Contributing to Cyclus](https://fuelcycle.org/kernel/contributing_to_cyclus.html) guide
+- [ ] Compile and run locally
+- [ ] Add or update tests
+- [ ] Document if needed
+- [ ] Follow style guidelines
+- [ ] Update the changelog
+- [ ] Address all review comments
 
 Reviewers, please refer to the Cyclus [Guide for Reviewers](https://fuelcycle.org/kernel/pr_review.html).
