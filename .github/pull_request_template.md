@@ -27,12 +27,11 @@ Fixes #
 <!--- Describe how this change was tested. -->
 
 
-- [ ] Read the [Contributing to Cyclus](https://fuelcycle.org/kernel/contributing_to_cyclus.html) guide
-- [ ] Compile and run locally
-- [ ] Add or update tests
-- [ ] Document if needed
-- [ ] Follow style guidelines
-- [ ] Update the changelog
-- [ ] Address all review comments
+- [ ] I have read the [Contributing to Cyclus](https://fuelcycle.org/kernel/contributing_to_cyclus.html) guide
+- [ ] I have compiled and run the code locally
+- [ ] I have added or updated relevant tests
+- [ ] I have added documentation for new or changed features
+- [ ] This code follows the style guide
+- [ ] I have updated the changelog
 
 Reviewers, please refer to the Cyclus [Guide for Reviewers](https://fuelcycle.org/kernel/pr_review.html).
