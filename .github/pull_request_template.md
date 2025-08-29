@@ -8,7 +8,7 @@
 <!--- Describe any design decisions or trade-offs you made. -->
 
 
-Is this change expected to break any of the following?
+Check the box if your change does not break any of the following:
 - [ ] API for Cyclus modules
 - [ ] Input files
 - [ ] Output tables for post processing tools
