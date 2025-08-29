@@ -1,4 +1,4 @@
-<!-- If this PR adds a CEP, do not replicate information in the document. Give a brief summary and link to related issues and PRs. -->
+<!-- If this PR adds a CEP, do not repeat all of the information in the CEP document in the summary. Instead, provide a short description of the CEP's purpose.  -->
 
 # Summary of Changes
 <!--- In one or more sentences, describe the PR you are submitting. -->
